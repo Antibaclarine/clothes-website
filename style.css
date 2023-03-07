@@ -1,0 +1,68 @@
+.container{
+    background-color:#ffe5d6;
+}
+.type ul li{
+    padding: 0px 6px 8px 4px;
+display: inline-block;
+margin-left: 10%;
+}
+.best{
+    font-size: 600%;
+    
+}
+.clothes{
+    width: 30%;
+    float: right;
+    position: relative;
+    top: -300px;
+    border-radius: 5%;
+    margin-right:5% ;
+}
+.more{
+    width: 10%;
+    position: relative;
+    top: 300px;
+    margin-left: 35%;
+    padding: 12px;
+    font-size: 100%;
+    background-color: #ffe5d6;
+    color: #002d3d;
+    border-radius: 5px;
+}
+.top{
+    width: 20%;
+    border-radius: 5px;
+    position: relative;
+    top: 400px;
+    margin-left: 5%;
+}
+.ladies{
+    margin-left: 27%;
+    position: relative;
+    top:100px ;
+}
+.jacket{
+    margin-left: 55%;
+    width: 18%;
+    border-radius: 5px;
+    position: relative;
+    top: -100px;
+}
+.men{
+    margin-left: 80%;
+    position: relative;
+    top: -400px;
+}
+.johnc  ul li{
+    list-style: none;
+}
+.twitter ul li{
+list-style: none;
+margin-left: 25%;
+position: relative;
+top: -70px;
+}
+.footer{
+    background-color: #002d3d;
+    color: white;
+}
